@@ -63,10 +63,14 @@ body {
     font-style: normal;
 }
 
+.address {
+    font-style: normal;
+}
+
 .address-link {
     color: var(--slate);
     font-family: Roboto;
-    font-style: normal;
+    
 }
 
 .nav-link:hover,
@@ -129,6 +133,10 @@ body {
     background-color: var(--cloud);
 }
 
+.team-item {
+    background-color: var(--white);
+}
+
 /* ============== Team STYLES ============== */
 
 /* ============== Footer STYLES ============== */
@@ -150,12 +158,11 @@ color: var(--cloud);
 /* ============== PORTFOLIO STYLES ============== */
 
 .portfolio-btn{
-    border-radius: 4px;
     border: 1px solid var(--cornflower);
     background: var(--cloud);
     text-align: center;
     font-weight: 500;
-    letter-spacing: 0.0064em;
+    letter-spacing: 0.04em;
     color: var(--iris);
 }
 
