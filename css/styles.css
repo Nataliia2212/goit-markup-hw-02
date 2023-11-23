@@ -54,7 +54,7 @@ body {
 }
 
 .accent {
-    color: var(--cloud);
+    color: var(--navy-blue);
 }
 
 .nav-link {
@@ -146,7 +146,7 @@ address {
 }
 
 .footer-logo {
-color: var(--cloud);
+    color: var(--cloud);
 }
 
 .footer-text{
@@ -170,5 +170,9 @@ color: var(--cloud);
 .portfolio-btn:focus {
     background: var(--ocean);
     color: var(--white);
+}
+
+.text{
+    color: var(--slate);
 }
 /* ============== PORTFOLIO STYLES ============== */
